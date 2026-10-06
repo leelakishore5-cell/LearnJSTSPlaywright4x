@@ -1,2 +1,0 @@
-# LearnJSTSPlaywright4x
-LearnJSTSPlaywright4x
