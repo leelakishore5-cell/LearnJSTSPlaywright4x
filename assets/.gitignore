@@ -1,0 +1,20 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Build & Dependency Artifacts
+target/
+*.class
+node_modules/
+dist/
+
+# IDE & Editor Files
+.idea/
+*.iml
+.vscode/
+
+# Logs & Reports
+logs/
+*.log
+reports/ExecutionReport_*.html
+reports/screenshots/

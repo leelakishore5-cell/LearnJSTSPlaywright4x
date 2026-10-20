@@ -1,0 +1,22 @@
+{
+  "name": "learnjstsplaywright4x",
+  "version": "1.0.0",
+  "description": "![Learn JavaScript, TypeScript & Playwright: chapter by chapter, built for testers](assets/images/banner.png)",
+  "maclin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PramodDutta/LearnJSTSPlaywright4x.git"
+  },
+  "author": "PrrmmodDutta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PramodDutta/LearnJSTSPlaywright4x/issues"
+  },
+  "homepage": "https://github.com/PramodDutta/LearnJSTSPlaywright4x#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
